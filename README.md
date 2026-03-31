@@ -22,13 +22,46 @@
 
 ```typescript
 const amit = {
-  role:         "Developer → PM → Founder 🚀",
+  current:      "Co-Founder @ Coverdoc.AI 🏢",
+  experience:   ["Kaiser Permanente", "CVS", "SharkNinja", "Amadeus", "Staples"],
   passion:      "Product Builder at Heart 💡",
-  currentFocus: ["Shipping fast", "Building 0→1 products", "AI-powered tools"],
-  funFact:      "I speak both code and strategy fluently 😄",
+  sideQuests:   "Building AI products on the side 🤖",
+  journey:      "Developer → Analyst → Product Manager/Lead → Co-Founder",
   askMeAbout:   ["Product", "Dev", "Startups", "AI Tools"],
 };
 ```
+
+<br/>
+
+### 🗺️ My Journey
+
+<div align="center">
+
+`👨‍💻 Developer` &nbsp;**→**&nbsp; `📊 Analyst` &nbsp;**→**&nbsp; `🧭 Product Manager / Lead` &nbsp;**→**&nbsp; `🚀 Co-Founder`
+
+</div>
+
+I've built and led products at **Kaiser Permanente**, **CVS**, **SharkNinja**, **Amadeus**, and **Staples** — and I build my own AI products on the side. Currently, co-founding **[Coverdoc.AI](https://coverdoc.ai)** 🤝
+
+---
+
+## 🚀 Things I've Built
+
+| Product | What it is | Stack |
+|---|---|---|
+| **[Coverdoc.AI](https://coverdoc.ai)** | AI-powered job search intelligence platform — co-founded 🏢 | Framer, Airtable, OpenAI, Stripe, GoogleDocAPI |
+| **[PM Wizard](https://pm-spark-insight.lovable.app)** | AI tool for PMs to extract prioritized insights from customer feedback, reviews, field reports & market data | React, TypeScript, Supabase, Lovable, shadcn/ui |
+| **[Decision Now](https://decision-now-bot.lovable.app)** | Hyper-personal recommendation engine — tells you what to eat, watch, read, or listen to based on time of day & your taste 🌅 | React, TypeScript, Framer Motion, Lovable |
+| **[Smooth Offboard](https://smooth-offboard-hero.lovable.app)** | Clean multi-step offboarding form for SaaS — turns cancellations into a positive final touchpoint 👋 | React, TypeScript, Tailwind, shadcn/ui |
+| **[Target Account Compass](https://target-account-compass.lovable.app)** | Enhanced "My Account" UX prototype for Target — voice search, family management & AI-powered customer support 🎯 | React, TypeScript, Tailwind, shadcn/ui |
+
+---
+
+## 🔧 How I Build
+
+> I use **Lovable**, **v0 by Vercel**, and am expanding my knowledge of **Claude Code** to move from idea to shipped product.
+>
+> I believe the best product leaders in the next 5 years will be ones who know how to build. 🏗️
 
 ---
 
@@ -55,16 +88,6 @@ const amit = {
 ### Backend & Data
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=codeninjamitn&theme=tokyonight&hide_border=true&background=0D1117&dates=00D9FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
