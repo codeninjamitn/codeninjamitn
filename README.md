@@ -64,24 +64,7 @@ const amit = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeninjamitn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeninjamitn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=codeninjamitn&theme=tokyonight&hide_border=true&background=0D1117&dates=00D9FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=codeninjamitn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
