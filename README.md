@@ -61,7 +61,7 @@ I've built and led products at **Kaiser Permanente**, **CVS**, **SharkNinja**, *
 
 > I use **Lovable**, **v0 by Vercel**, and am expanding my knowledge of **Claude Code** to move from idea to shipped product.
 >
-> I believe the best product leaders in the next 5 years will be ones who know how to build. 🏗️
+> I believe the best product leaders in the next 5 years will be ones who know how to build in addition to marketing and GTM.🏗️
 
 ---
 
