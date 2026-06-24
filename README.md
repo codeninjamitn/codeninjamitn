@@ -54,6 +54,8 @@ I've built and led products at **Kaiser Permanente**, **CVS**, **SharkNinja**, *
 | **[Decision Now](https://decision-now-bot.lovable.app)** | Hyper-personal recommendation engine — tells you what to eat, watch, read, or listen to based on time of day & your taste 🌅 | React, TypeScript, Framer Motion, Lovable |
 | **[Smooth Offboard](https://smooth-offboard-hero.lovable.app)** | Clean multi-step offboarding form for SaaS — turns cancellations into a positive final touchpoint 👋 | React, TypeScript, Tailwind, shadcn/ui |
 | **[Target Account Compass](https://target-account-compass.lovable.app)** | Enhanced "My Account" UX prototype for Target — voice search, family management & AI-powered customer support 🎯 | React, TypeScript, Tailwind, shadcn/ui |
+| **[BCA Interpreter (Zero Guesswork)](https://bca-interpreter.lovable.app/)** | Your hyper-personal body composition reader — turning raw scan numbers into plain-English answers | React, TypeScript, Tailwind, shadcn/ui |
+
 
 ---
 
